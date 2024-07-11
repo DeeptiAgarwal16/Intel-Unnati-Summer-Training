@@ -15,4 +15,5 @@ This project develops an Investment Banking Chatbot using advanced AI technologi
 3. Interact with the chatbot through the provided frontend interface.
 
 ## Interface
-![Screenshot 2024-07-07 195918](https://github.com/DeeptiAgarwal16/Intel-Unnati-Summer-Training/assets/115862867/07d67007-aff0-430f-b877-760cab9317ab){:height="50%" width="50%"}
+<img src="https://github.com/DeeptiAgarwal16/Intel-Unnati-Summer-Training/raw/main/assets/115862867/07d67007-aff0-430f-b877-760cab9317ab/image.png" alt="Screenshot 2024-07-07 195918" width="400"/>
+
