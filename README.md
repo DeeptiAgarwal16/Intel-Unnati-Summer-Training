@@ -6,12 +6,12 @@ This project develops an Investment Banking Chatbot using advanced AI technologi
 ## Features
 - Utilizes Intel's Neural Chat LLM for high-performance CPU inference.
 - Integrates Retrieval Augmented Generation (RAG) for accurate responses.
-- Backend powered by Flask and FastAPI; frontend offers intuitive user interface.
+- Backend powered by Flask; frontend offers intuitive user interface.
 - Data sourced from indexed investment banking PDFs for comprehensive responses.
 
 ## Usage
 1. Install dependencies with `requirements.txt`.
-2. Run backend using Flask or FastAPI.
+2. Run backend using Flask.
 3. Interact with the chatbot through the provided frontend interface.
 
 ## Interface
